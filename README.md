@@ -3,9 +3,35 @@
 
 - 🌱 I’m currently studying **Angular 16**
 
-- 🖥️ You can see my portfolio at: or visualize my projects below :
+- 📫 You can reach me at **myrnapt96@gmail.com**
 
- - 📫 You can reach me at **myrnapt96@gmail.com**
+-  🖥️ You can see my projects below :
+
+### <div align="center">[STAR WARS SHIPS](https://star-wars-one-livid.vercel.app/home)</div>  
+  
+
+### <div align="center">[BUDGET GENERATORt](https://sprint-7.vercel.app/)</div>  
+  
+
+### <div align="center">[RESPONSIVE LANDING PAGEt](https://landing-page-blue-mu.vercel.app/)</div>  
+  
+
+### <div align="center">[MAPS APP](https://maps-app-pied.vercel.app/maps/fullscreen)</div>  
+  
+
+### <div align="center">[SHORT RESPONSIVE STORY](https://sprint-6-two.vercel.app/)</div>  
+  
+
+### <div align="center">[JOKE GENERATOR](https://joke-generator-jet.vercel.app/)</div>  
+  
+
+### <div align="center">[ONLINE STORE](https://sprint-3-zeta.vercel.app/)</div>  
+  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <p align="left">
 </p>
