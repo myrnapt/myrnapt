@@ -5,11 +5,7 @@
 
 - 🖥️ You can see my portfolio at: or visualize my projects below :
 
-- 📜 My resume is available at [Linkedin](https://www.linkedin.com/in/myrnaprieto/)
-
  - 📫 You can reach me at **myrnapt96@gmail.com**
-
-- 🤫 Fun fact I'm from Argentina, but I only speak with and accent with others argentinians, ha!
 
 <p align="left">
 </p>
