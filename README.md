@@ -30,7 +30,7 @@
 ### <div align="center">[STAR WARS SHIPS](https://star-wars-one-livid.vercel.app/home)</div>  
   
 
-### <div align="center">[BUDGET GENERATORt](https://sprint-7.vercel.app/)</div>  
+### <div align="center">[BUDGET GENERATOR](https://sprint-7.vercel.app/)</div>  
   
 
 ### <div align="center">[RESPONSIVE LANDING PAGEt](https://landing-page-blue-mu.vercel.app/)</div>  
