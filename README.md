@@ -37,10 +37,7 @@
   
 
 ### <div align="center">[MAPS APP](https://maps-app-pied.vercel.app/maps/fullscreen)</div>  
-  
 
-### <div align="center">[SHORT RESPONSIVE STORY](https://sprint-6-two.vercel.app/)</div>  
-  
 
 ### <div align="center">[JOKE GENERATOR](https://joke-generator-jet.vercel.app/)</div>  
   
