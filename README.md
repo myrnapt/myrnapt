@@ -33,7 +33,7 @@
 ### <div align="center">[BUDGET GENERATOR](https://sprint-7.vercel.app/)</div>  
   
 
-### <div align="center">[RESPONSIVE LANDING PAGE](https://landing-page-blue-mu.vercel.app/)</div>  
+### <div align="center">[WIKI RICK & MORTY](https://hackathon-jump2-digital.vercel.app/)</div>  
   
 
 ### <div align="center">[MAPS APP](https://maps-app-pied.vercel.app/maps/fullscreen)</div>  
