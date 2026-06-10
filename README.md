@@ -1,13 +1,7 @@
-
 <div align="center">
-
-
-<br>
-
-![mascota de linux usando un ordenador](linux.gif) ![bienvenido](text-animation.gif)
-
-<br>
-
+  
+![mascota de linux usando un ordenador](linux.gif)  
+![bienvenido](text-animation.gif)  
 ![Me llamo Myrna](textanim.gif)
 
 ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
