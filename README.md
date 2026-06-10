@@ -1,13 +1,14 @@
 <div align="center">
   
 ![mascota de linux usando un ordenador](linux.gif)  
-![bienvenido](text-animation.gif)  
+![bienvenido](text-animation(1).gif)  
+★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  
+
 ![Me llamo Myrna](textanim.gif)
 
-★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
 
 </div>
-<h2>  ˗ˏˋ ⌗ TÉCNICA JUNIOR DE SISTEMAS ⌗  ˎˊ˗ </h2>
+<h2>  ˗ˏˋ ⌗ SOY TÉCNICA JUNIOR DE SISTEMAS ⌗  ˎˊ˗ </h2>
 
 He finalizado el ciclo de Administración de Sistemas Informáticos en Red **(ASIR)** y actualmente estoy orientando mi perfil profesional hacia el área de sistemas, soporte técnico e infraestructura IT.
 En esta pagina podreis encontrar algunos de mis proyectos de web que he trabajado con Angular16, python y flask. Tambien podeis encontrar los links a un par de proyectos grupales donde he colaborado![smiley face](image.png)
@@ -45,8 +46,10 @@ En esta pagina podreis encontrar algunos de mis proyectos de web que he trabajad
 LinkedIn: https://www.linkedin.com/in/myrnaprieto/  
 Email: myrnapt96@gmail.com
 
+
 <div align="center">
-★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
   
-![gracias](thanksclr.gif)
+![](https://komarev.com/ghpvc/?username=myrnapt&base=73)  
+![gracias](thanksclr.gif)  
+
 </div>
