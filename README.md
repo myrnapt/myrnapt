@@ -1,49 +1,138 @@
-<h1 align="center">✌️ Hey hey! I'm Myrna 🌺</h1> 
-<h3 align="center">A junior frontend developer living in Barcelona. I also have a master in illustration which is very helpfull for making web layouts. I have tons of hobbys because I love learning about anything!!!</h3>
+# Hola, soy Myrna
 
-- 🌱 I’m currently studying **Angular 16**
+> Técnica Junior de Sistemas · Soporte IT · Windows Server · Active Directory · Microsoft 365 · Proxmox · AWS
 
-- 📫 You can reach me at **myrnapt96@gmail.com**
+He finalizado el ciclo de **Administración de Sistemas Informáticos en Red (ASIR)** y actualmente estoy orientando mi perfil profesional hacia el área de **sistemas, soporte técnico e infraestructura IT**.
 
-<p align="left">
-</p>
+Me interesa especialmente el soporte a usuarios, la administración de sistemas Windows/Linux, la virtualización, la gestión de incidencias y el despliegue de infraestructuras en entornos híbridos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p> FrontEnd: </p>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<p></p>
-<p> Design: </p>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+Además de mi formación técnica, cuento con varios años de experiencia trabajando de cara al público como cajera, frutera y dependienta, lo que me ha permitido desarrollar comunicación, paciencia, resolución de incidencias y trato directo con personas.
 
+---
 
-<h3 align="center">🖥️ You can see my projects below 🖥️</h3> 
+## Perfil técnico
 
-### <div align="center">[STAR WARS SHIPS](https://star-wars-one-livid.vercel.app/home)</div>  
-  
+```yaml
+role: "Técnica Junior de Sistemas"
+education: "ASIR finalizado"
+focus:
+  - Soporte IT
+  - Windows Server
+  - Active Directory
+  - Microsoft 365
+  - Virtualización
+  - Infraestructura híbrida
+learning:
+  - Administración de sistemas
+  - Cloud
+  - Automatización
+  - Monitorización
+```
 
-### <div align="center">[BUDGET GENERATOR](https://sprint-7.vercel.app/)</div>  
-  
+---
 
-### <div align="center">[WIKI RICK & MORTY](https://hackathon-jump2-digital.vercel.app/)</div>  
-  
+## Tecnologías y herramientas
 
-### <div align="center">[JOKE GENERATOR](https://joke-generator-jet.vercel.app/)</div>  
-  
+### Sistemas y soporte
 
-### <div align="center">[ONLINE STORE](https://sprint-3-zeta.vercel.app/)</div>  
-  
+* Windows Server
+* Windows 10 / Windows 11
+* Microsoft 365
+* Helpdesk / gestión de incidencias
+* Preparación y configuración de equipos
+* Administración básica de usuarios
+* Soporte técnico a usuarios
 
+### Redes y servicios
 
+* Active Directory
+* DNS
+* DHCP
+* GPO
+* SMB
+* VPN
+* TCP/IP
+* VLAN
 
+### Virtualización, cloud e infraestructura
 
+* Proxmox
+* VirtualBox
+* AWS
+* Terraform
+* EC2
+* RDS
+* EFS
+* NGINX
 
+### Linux, scripting y herramientas
 
+* Linux
+* Bash
+* PowerShell
+* Git
+* Scripts de backup
+* Zabbix básico
+* Wazuh básico
+
+---
+
+## Proyectos destacados
+
+### DRACS Hybrid Infrastructure
+
+Proyecto final de ASIR desarrollado en equipo, basado en una infraestructura híbrida entre entorno local y AWS.
+
+El proyecto integra servicios de sistemas, redes, monitorización, backup, ticketing y cloud, simulando un entorno empresarial real.
+
+Tecnologías utilizadas:
+
+* Proxmox para virtualización local.
+* Windows Server con Active Directory, DNS, usuarios, grupos y GPO.
+* GLPI como herramienta de ticketing.
+* AWS para la parte cloud.
+* Terraform para despliegue de infraestructura.
+* RDS MariaDB y EFS para datos y almacenamiento compartido.
+* NGINX como punto de entrada.
+* Wazuh y Zabbix para monitorización básica.
+* WireGuard para conexión VPN entre entorno local y AWS.
+
+Mi participación estuvo centrada en tareas de sistemas, soporte, documentación, integración de servicios y despliegue de componentes de infraestructura.
+
+---
+
+## Experiencia práctica
+
+Durante mis prácticas trabajé con **Windows Server** y herramientas de **Microsoft Office 365 / Helpdesk**.
+
+Realicé tareas como:
+
+* Preparación y configuración de equipos.
+* Soporte técnico básico a usuarios.
+* Gestión de incidencias.
+* Uso de herramientas de Microsoft 365.
+* Apoyo en administración de sistemas Windows.
+* Creación y revisión de scripts de backup.
+* Tareas de mantenimiento informático.
+
+---
+
+## Objetivo profesional
+
+Busco una oportunidad como:
+
+* Técnica de Soporte IT
+* Técnica de Sistemas Junior
+* Helpdesk
+* Operadora de Sistemas
+* Administradora Windows Junior
+
+Mi objetivo es seguir creciendo en administración de sistemas, soporte técnico, cloud, automatización y monitorización.
+
+---
+
+## Contacto
+
+* LinkedIn: añade aquí tu perfil
+* Email: añade aquí tu correo profesional
+* GitHub: github.com/myrnapt
